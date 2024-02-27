@@ -1,0 +1,9 @@
+01. Find the Count and Percentage of Male vs Female that have OCD and average obsession score by Gender
+
+02. Find the Count of patients by ethnicity and their respective average Obsession score?
+
+03. Find out number of people dignosed with OCD month of months?
+
+04. Find the most common obsession type count and it's respective average Obsession score?
+
+05. Find the most common compulision type count and it's respective average Obsession score?
